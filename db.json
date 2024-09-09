@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test@example.com",
+      "password": "password123"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "aaa222",
+      "description": "a333",
+      "priority": "Medium",
+      "dueDate": "2024-09-07",
+      "id": 1,
+      "completed": true
+    },
+    {
+      "title": "bbb3333",
+      "description": "ass",
+      "priority": "Medium",
+      "dueDate": "2024-09-13",
+      "id": 2,
+      "completed": true
+    },
+    {
+      "title": "22cv4444",
+      "description": "xcvxcvx",
+      "priority": "Medium",
+      "dueDate": "2024-09-19",
+      "id": 3
+    },
+    {
+      "title": "fff",
+      "description": "asfasf",
+      "priority": "Low",
+      "dueDate": "2024-10-03",
+      "id": 4,
+      "completed": true
+    },
+    {
+      "title": "dfgdfgd",
+      "description": "dfgdrg",
+      "priority": "High",
+      "dueDate": "2024-09-18",
+      "id": 5
+    },
+    {
+      "title": "235werw3w",
+      "description": "erw3rw",
+      "priority": "High",
+      "dueDate": "2024-09-27",
+      "id": 6
+    }
+  ]
+}
